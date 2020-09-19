@@ -8,5 +8,5 @@ class Shoe
     puts "says that the shoe has been repaired"
   end
   def new_shoes
-    puts ""
+    puts "makes the shoe's condition new"
   
