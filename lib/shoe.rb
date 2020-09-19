@@ -9,4 +9,5 @@ class Shoe
   end
   def new_shoes
     puts "makes the shoe's condition new"
-  
+  end
+end  
